@@ -20,13 +20,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4.3611203"
-     inkscape:cx="117.97427"
-     inkscape:cy="86.674978"
+     inkscape:zoom="2.6365194"
+     inkscape:cx="102.59739"
+     inkscape:cy="154.37019"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="48"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -40,11 +40,11 @@
        y2="100%">
       <stop
          offset="0"
-         style="stop-color:#ead394;stop-opacity:1;"
+         style="stop-color:#bfbfbf;stop-opacity:1"
          id="stop195" />
       <stop
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0"
          id="stop200" />
     </linearGradient>
     <linearGradient
@@ -56,22 +56,22 @@
        y2="100%">
       <stop
          offset="0"
-         style="stop-color:#dfc064;stop-opacity:1;"
+         style="stop-color:#a1a1a1;stop-opacity:1"
          id="stop193" />
       <stop
          offset="0.77973711"
-         style="stop-color:#f0d9a7;stop-opacity:1;"
+         style="stop-color:#cbcbcb;stop-opacity:1"
          id="stop194" />
     </linearGradient>
     <linearGradient
        id="linearGradient198"
        inkscape:collect="always">
       <stop
-         style="stop-color:#f4f0d7;stop-opacity:1;"
+         style="stop-color:#e5e5e5;stop-opacity:1"
          offset="0"
          id="stop198" />
       <stop
-         style="stop-color:#dfc064;stop-opacity:1;"
+         style="stop-color:#a1a1a1;stop-opacity:1"
          offset="0.58707213"
          id="stop199" />
     </linearGradient>
@@ -79,11 +79,11 @@
        id="linearGradient196"
        inkscape:collect="always">
       <stop
-         style="stop-color:#e2d2ae;stop-opacity:1;"
+         style="stop-color:#c8c8c8;stop-opacity:1"
          offset="0"
          id="stop197" />
       <stop
-         style="stop-color:#ceb373;stop-opacity:1;"
+         style="stop-color:#a0a0a0;stop-opacity:1"
          offset="0.41107368"
          id="stop196" />
     </linearGradient>
@@ -96,11 +96,11 @@
        y2="100%">
       <stop
          offset="0.67350143"
-         style="stop-color:#dfc064;stop-opacity:1;"
+         style="stop-color:#a1a1a1;stop-opacity:1"
          id="stop387" />
       <stop
          offset="1"
-         style="stop-color:#ead394;stop-opacity:1;"
+         style="stop-color:#bfbfbf;stop-opacity:1"
          id="stop386" />
     </linearGradient>
     <linearGradient
@@ -112,11 +112,11 @@
        y2="100%">
       <stop
          offset="0"
-         style="stop-color:#ead394;stop-opacity:1;"
+         style="stop-color:#bfbfbf;stop-opacity:1"
          id="stop382" />
       <stop
          offset="1"
-         style="stop-color:#dfc064;stop-opacity:0;"
+         style="stop-color:#a1a1a1;stop-opacity:0"
          id="stop383" />
     </linearGradient>
     <linearGradient
@@ -144,11 +144,11 @@
        y2="100%">
       <stop
          offset="0"
-         style="stop-color:#ead394;stop-opacity:1;"
+         style="stop-color:#bfbfbf;stop-opacity:1"
          id="stop379" />
       <stop
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0"
          id="stop378" />
     </linearGradient>
     <linearGradient
@@ -1615,11 +1615,11 @@
        id="linearGradient8064">
       <stop
          offset="0"
-         style="stop-color:#d5c9a8;stop-opacity:1"
+         style="stop-color:#bebebe;stop-opacity:1"
          id="stop443" />
       <stop
          offset="1"
-         style="stop-color:#c0af81;stop-opacity:0"
+         style="stop-color:#a0a0a0;stop-opacity:0"
          id="stop444" />
     </linearGradient>
     <linearGradient
@@ -1631,11 +1631,11 @@
        id="linearGradient37">
       <stop
          offset="0.67350143"
-         style="stop-color:#c0af81;stop-opacity:1"
+         style="stop-color:#a0a0a0;stop-opacity:1"
          id="stop445" />
       <stop
          offset="1"
-         style="stop-color:#d5c9a8;stop-opacity:1"
+         style="stop-color:#bebebe;stop-opacity:1"
          id="stop446" />
     </linearGradient>
     <linearGradient
@@ -2697,42 +2697,42 @@
     <rect
        height="1"
        id="active_decoration_topleft_top2_active_contents_halo1"
-       style="fill-opacity:1;opacity:0.9;stroke:#373318;fill:#7a734c;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#272727;fill:#636363;stroke-width:0"
        width="0"
        x="100"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topleft_left2_active_contents_halo1"
-       style="fill:#7a734c;stroke-width:0;fill-opacity:1;stroke:#373318;opacity:0.9"
+       style="fill:#636363;stroke-width:0;fill-opacity:1;stroke:#272727;opacity:0.9"
        width="1"
        x="99"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topleft_top2_active_contents_highlight1"
-       style="fill-opacity:1;stroke:#c4c3bf;opacity:0.9;fill:#c4c3bf;stroke-width:0"
+       style="fill-opacity:1;stroke:#c1c1c1;opacity:0.9;fill:#c1c1c1;stroke-width:0"
        width="1"
        x="99"
        y="98" />
     <rect
        height="2"
        id="active_decoration_topleft_left2_active_contents_highlight1"
-       style="opacity:0.9;stroke:#c4c3bf;fill-opacity:1;stroke-width:0;fill:#c4c3bf"
+       style="opacity:0.9;stroke:#c1c1c1;fill-opacity:1;stroke-width:0;fill:#c1c1c1"
        width="1"
        x="98"
        y="98" />
     <rect
        height="24"
        id="active_decoration_topleft_top2_active_title_middle4"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;opacity:1;stroke:#b48e19"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;opacity:1;stroke:#666666"
        width="2"
        x="98"
        y="74" />
     <rect
        height="26"
        id="active_decoration_topleft_left2_active_title_middle4"
-       style="fill-opacity:1;opacity:1;stroke:#b48e19;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;opacity:1;stroke:#666666;fill:#a1a1a1;stroke-width:0"
        width="1"
        x="97"
        y="74" />
@@ -2740,19 +2740,19 @@
        d="M 97,74 C 97,74 97,74 97,74 L 96,74 C 96,73.4 96.4,73 97,73 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle3"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;stroke:#b48e19;opacity:1"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;stroke:#666666;opacity:1"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle3"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;opacity:1;stroke:#b48e19"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;opacity:1;stroke:#666666"
        width="3"
        x="97"
        y="73" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle3"
-       style="stroke-width:0;fill:#dfc064;stroke:#b48e19;opacity:1;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;stroke:#666666;opacity:1;fill-opacity:1"
        width="1"
        x="96"
        y="74" />
@@ -2760,19 +2760,19 @@
        d="M 97,73 C 96.4,73 96,73.4 96,74 L 95,74 C 95,72.8 95.8,72 97,72 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle2"
-       style="stroke-width:0;fill:#dfc064;stroke:#b48e19;opacity:1;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;stroke:#666666;opacity:1;fill-opacity:1"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle2"
-       style="stroke:#b48e19;opacity:1;fill-opacity:1;stroke-width:0;fill:#dfc064"
+       style="stroke:#666666;opacity:1;fill-opacity:1;stroke-width:0;fill:#a1a1a1"
        width="3"
        x="97"
        y="72" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle2"
-       style="opacity:1;stroke:#b48e19;fill-opacity:1;stroke-width:0;fill:#dfc064"
+       style="opacity:1;stroke:#666666;fill-opacity:1;stroke-width:0;fill:#a1a1a1"
        width="1"
        x="95"
        y="74" />
@@ -2780,19 +2780,19 @@
        d="M 97,72 C 95.8,72 95,72.8 95,74 L 94,74 C 94,72.2 95.2,71 97,71 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle1"
-       style="stroke-width:0;fill:#dfc064;opacity:1;stroke:#b48e19;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;opacity:1;stroke:#666666;fill-opacity:1"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle1"
-       style="fill-opacity:1;stroke:#b48e19;opacity:1;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;stroke:#666666;opacity:1;fill:#a1a1a1;stroke-width:0"
        width="3"
        x="97"
        y="71" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle1"
-       style="fill-opacity:1;stroke:#b48e19;opacity:1;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;stroke:#666666;opacity:1;fill:#a1a1a1;stroke-width:0"
        width="1"
        x="94"
        y="74" />
@@ -2800,19 +2800,19 @@
        d="M 97,71 C 95.2,71 94,72.2 94,74 L 93,74 C 93,71.6 94.6,70 97,70 z"
        height="32"
        id="active_decoration_topleft_corner_active_window_highlight1"
-       style="fill-opacity:1;opacity:0.9;stroke:#e4e4e1;fill:#e4e4e1;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#e2e2e2;fill:#e2e2e2;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_window_highlight1"
-       style="fill:#e4e4e1;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#e4e4e1"
+       style="fill:#e2e2e2;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#e2e2e2"
        width="3"
        x="97"
        y="70" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_window_highlight1"
-       style="fill:#e4e4e1;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#e4e4e1"
+       style="fill:#e2e2e2;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#e2e2e2"
        width="1"
        x="93"
        y="74" />
@@ -2839,7 +2839,7 @@
     <rect
        height="26.928257"
        id="rect375"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient195);fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient195);fill-opacity:1;stroke:#666666;stroke-width:0"
        width="6.0499349"
        x="93.950066"
        y="71.071739" />
@@ -2860,28 +2860,28 @@
     <rect
        height="1"
        id="active_decoration_top_active_contents_halo"
-       style="fill:#7a734c;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#373318"
+       style="fill:#636363;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#272727"
        width="20"
        x="100"
        y="99" />
     <rect
        height="1"
        id="active_decoration_top_active_contents_highlight"
-       style="fill-opacity:1;stroke:#c4c3bf;opacity:0.9;fill:#c4c3bf;stroke-width:0"
+       style="fill-opacity:1;stroke:#c1c1c1;opacity:0.9;fill:#c1c1c1;stroke-width:0"
        width="20"
        x="100"
        y="98" />
     <rect
        height="27"
        id="active_decoration_top_active_title_middle"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#linearGradient386);fill-opacity:1;fill-rule:evenodd;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#linearGradient386);fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:0"
        width="20"
        x="100"
        y="71" />
     <rect
        height="1"
        id="active_decoration_top_active_window_highlight"
-       style="fill:#e4e4e1;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#e4e4e1"
+       style="fill:#e2e2e2;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#e2e2e2"
        width="20"
        x="100"
        y="70" />
@@ -2922,42 +2922,42 @@
     <rect
        height="1"
        id="active_decoration_topright_top2_active_contents_halo1"
-       style="fill-opacity:1;opacity:0.9;stroke:#373318;fill:#7a734c;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#272727;fill:#636363;stroke-width:0"
        width="0"
        x="120"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topright_right2_active_contents_halo1"
-       style="fill-opacity:1;opacity:0.9;stroke:#373318;fill:#7a734c;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#272727;fill:#636363;stroke-width:0"
        width="1"
        x="120"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topright_top2_active_contents_highlight1"
-       style="fill-opacity:1;opacity:0.9;stroke:#c4c3bf;fill:#c4c3bf;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#c1c1c1;fill:#c1c1c1;stroke-width:0"
        width="1"
        x="120"
        y="98" />
     <rect
        height="2"
        id="active_decoration_topright_right2_active_contents_highlight1"
-       style="stroke-width:0;fill:#c4c3bf;stroke:#c4c3bf;opacity:0.9;fill-opacity:1"
+       style="stroke-width:0;fill:#c1c1c1;stroke:#c1c1c1;opacity:0.9;fill-opacity:1"
        width="1"
        x="121"
        y="98" />
     <rect
        height="24"
        id="active_decoration_topright_top2_active_title_middle4"
-       style="fill-opacity:1;opacity:1;stroke:#b48e19;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;opacity:1;stroke:#666666;fill:#a1a1a1;stroke-width:0"
        width="2"
        x="120"
        y="74" />
     <rect
        height="26"
        id="active_decoration_topright_right2_active_title_middle4"
-       style="stroke-width:0;fill:#dfc064;stroke:#b48e19;opacity:1;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;stroke:#666666;opacity:1;fill-opacity:1"
        width="1"
        x="122"
        y="74" />
@@ -2965,19 +2965,19 @@
        d="M 123,74 C 123,74 123,74 123,74 L 124,74 C 124,73.4 123.6,73 123,73 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle3"
-       style="stroke-width:0;fill:#dfc064;opacity:1;stroke:#b48e19;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;opacity:1;stroke:#666666;fill-opacity:1"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle3"
-       style="stroke-width:0;fill:#dfc064;opacity:1;stroke:#b48e19;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;opacity:1;stroke:#666666;fill-opacity:1"
        width="3"
        x="120"
        y="73" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle3"
-       style="opacity:1;stroke:#b48e19;fill-opacity:1;stroke-width:0;fill:#dfc064"
+       style="opacity:1;stroke:#666666;fill-opacity:1;stroke-width:0;fill:#a1a1a1"
        width="1"
        x="123"
        y="74" />
@@ -2985,19 +2985,19 @@
        d="M 123,73 C 123.6,73 124,73.4 124,74 L 125,74 C 125,72.8 124.2,72 123,72 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle2"
-       style="stroke:#b48e19;opacity:1;fill-opacity:1;stroke-width:0;fill:#dfc064"
+       style="stroke:#666666;opacity:1;fill-opacity:1;stroke-width:0;fill:#a1a1a1"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle2"
-       style="fill-opacity:1;stroke:#b48e19;opacity:1;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;stroke:#666666;opacity:1;fill:#a1a1a1;stroke-width:0"
        width="3"
        x="120"
        y="72" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle2"
-       style="stroke-width:0;fill:#dfc064;opacity:1;stroke:#b48e19;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;opacity:1;stroke:#666666;fill-opacity:1"
        width="1"
        x="124"
        y="74" />
@@ -3005,19 +3005,19 @@
        d="M 123,72 C 124.2,72 125,72.8 125,74 L 126,74 C 126,72.2 124.8,71 123,71 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle1"
-       style="stroke-width:0;fill:#dfc064;opacity:1;stroke:#b48e19;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;opacity:1;stroke:#666666;fill-opacity:1"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle1"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;stroke:#b48e19;opacity:1"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;stroke:#666666;opacity:1"
        width="3"
        x="120"
        y="71" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle1"
-       style="stroke-width:0;fill:#dfc064;opacity:1;stroke:#b48e19;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;opacity:1;stroke:#666666;fill-opacity:1"
        width="1"
        x="125"
        y="74" />
@@ -3025,19 +3025,19 @@
        d="M 123,71 C 124.8,71 126,72.2 126,74 L 127,74 C 127,71.6 125.4,70 123,70 z"
        height="32"
        id="active_decoration_topright_corner_active_window_highlight1"
-       style="fill-opacity:1;opacity:0.9;stroke:#e4e4e1;fill:#e4e4e1;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#e2e2e2;fill:#e2e2e2;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_window_highlight1"
-       style="fill-opacity:1;opacity:0.9;stroke:#e4e4e1;fill:#e4e4e1;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#e2e2e2;fill:#e2e2e2;stroke-width:0"
        width="3"
        x="120"
        y="70" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_window_highlight1"
-       style="stroke-width:0;fill:#e4e4e1;opacity:0.9;stroke:#e4e4e1;fill-opacity:1"
+       style="stroke-width:0;fill:#e2e2e2;opacity:0.9;stroke:#e2e2e2;fill-opacity:1"
        width="1"
        x="126"
        y="74" />
@@ -3064,7 +3064,7 @@
     <rect
        height="26.882627"
        id="rect377"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient381);stroke:#b48e19;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient381);stroke:#666666;stroke-width:0"
        width="6.0639029"
        x="120"
        y="71.117371" />
@@ -3085,28 +3085,28 @@
     <rect
        height="20"
        id="active_decoration_left_active_contents_halo"
-       style="stroke:#373318;opacity:0.9;fill-opacity:1;stroke-width:0;fill:#7a734c"
+       style="stroke:#272727;opacity:0.9;fill-opacity:1;stroke-width:0;fill:#636363"
        width="1"
        x="99"
        y="100" />
     <rect
        height="20"
        id="active_decoration_left_active_contents_highlight"
-       style="fill-opacity:1;opacity:0.9;stroke:#c4c3bf;fill:#c4c3bf;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#c1c1c1;fill:#c1c1c1;stroke-width:0"
        width="1"
        x="98"
        y="100" />
     <rect
        height="20"
        id="active_decoration_left_active_title_middle"
-       style="fill-opacity:1;stroke:#b48e19;opacity:1;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;stroke:#666666;opacity:1;fill:#a1a1a1;stroke-width:0"
        width="4"
        x="94"
        y="100" />
     <rect
        height="20"
        id="active_decoration_left_active_window_highlight"
-       style="opacity:0.9;stroke:#e4e4e1;fill-opacity:1;stroke-width:0;fill:#e4e4e1"
+       style="opacity:0.9;stroke:#e2e2e2;fill-opacity:1;stroke-width:0;fill:#e2e2e2"
        width="1"
        x="93"
        y="100" />
@@ -3147,28 +3147,28 @@
     <rect
        height="20"
        id="active_decoration_right_active_contents_halo"
-       style="stroke-width:0;fill:#7a734c;stroke:#373318;opacity:0.9;fill-opacity:1"
+       style="stroke-width:0;fill:#636363;stroke:#272727;opacity:0.9;fill-opacity:1"
        width="1"
        x="120"
        y="100" />
     <rect
        height="20"
        id="active_decoration_right_active_contents_shadow"
-       style="fill:#c5bfa0;stroke-width:0;fill-opacity:1;stroke:#c5bfa0;opacity:0.9"
+       style="fill:#b2b2b2;stroke-width:0;fill-opacity:1;stroke:#b2b2b2;opacity:0.9"
        width="1"
        x="121"
        y="100" />
     <rect
        height="20"
        id="active_decoration_right_active_title_middle"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;stroke:#b48e19;opacity:1"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;stroke:#666666;opacity:1"
        width="4"
        x="122"
        y="100" />
     <rect
        height="20"
        id="active_decoration_right_active_window_shadow"
-       style="fill:#e3e1d4;stroke-width:0;fill-opacity:1;stroke:#e3e1d4;opacity:0.92"
+       style="fill:#dbdbdb;stroke-width:0;fill-opacity:1;stroke:#dbdbdb;opacity:0.92"
        width="1"
        x="126"
        y="100" />
@@ -3209,42 +3209,42 @@
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_contents_halo1"
-       style="fill:#7a734c;stroke-width:0;fill-opacity:1;stroke:#373318;opacity:0.9"
+       style="fill:#636363;stroke-width:0;fill-opacity:1;stroke:#272727;opacity:0.9"
        width="0"
        x="100"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomleft_left_active_contents_halo1"
-       style="fill:#7a734c;stroke-width:0;fill-opacity:1;stroke:#373318;opacity:0.9"
+       style="fill:#636363;stroke-width:0;fill-opacity:1;stroke:#272727;opacity:0.9"
        width="1"
        x="99"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_contents_highlight1"
-       style="opacity:0.9;stroke:#c4c3bf;fill-opacity:1;stroke-width:0;fill:#c4c3bf"
+       style="opacity:0.9;stroke:#c1c1c1;fill-opacity:1;stroke-width:0;fill:#c1c1c1"
        width="1"
        x="99"
        y="121" />
     <rect
        height="2"
        id="active_decoration_bottomleft_left_active_contents_highlight1"
-       style="opacity:0.9;stroke:#c4c3bf;fill-opacity:1;stroke-width:0;fill:#c4c3bf"
+       style="opacity:0.9;stroke:#c1c1c1;fill-opacity:1;stroke-width:0;fill:#c1c1c1"
        width="1"
        x="98"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle4"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;stroke:#b48e19;opacity:1"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;stroke:#666666;opacity:1"
        width="2"
        x="98"
        y="122" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle4"
-       style="fill-opacity:1;stroke:#b48e19;opacity:1;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;stroke:#666666;opacity:1;fill:#a1a1a1;stroke-width:0"
        width="1"
        x="97"
        y="120" />
@@ -3252,19 +3252,19 @@
        d="M 97,123 C 97,123 97,123 97,123 L 96,123 C 96,123.6 96.4,124 97,124 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle3"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;stroke:#b48e19;opacity:1"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;stroke:#666666;opacity:1"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle3"
-       style="fill-opacity:1;opacity:1;stroke:#b48e19;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;opacity:1;stroke:#666666;fill:#a1a1a1;stroke-width:0"
        width="3"
        x="97"
        y="123" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle3"
-       style="fill-opacity:1;opacity:1;stroke:#b48e19;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;opacity:1;stroke:#666666;fill:#a1a1a1;stroke-width:0"
        width="1"
        x="96"
        y="120" />
@@ -3272,19 +3272,19 @@
        d="M 97,124 C 96.4,124 96,123.6 96,123 L 95,123 C 95,124.2 95.8,125 97,125 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle2"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;opacity:1;stroke:#b48e19"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;opacity:1;stroke:#666666"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle2"
-       style="stroke-width:0;fill:#dfc064;stroke:#b48e19;opacity:1;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;stroke:#666666;opacity:1;fill-opacity:1"
        width="3"
        x="97"
        y="124" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle2"
-       style="fill-opacity:1;stroke:#b48e19;opacity:1;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;stroke:#666666;opacity:1;fill:#a1a1a1;stroke-width:0"
        width="1"
        x="95"
        y="120" />
@@ -3292,19 +3292,19 @@
        d="M 97,125 C 95.8,125 95,124.2 95,123 L 94,123 C 94,124.8 95.2,126 97,126 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle1"
-       style="stroke-width:0;fill:#dfc064;stroke:#b48e19;opacity:1;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;stroke:#666666;opacity:1;fill-opacity:1"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle1"
-       style="stroke-width:0;fill:#dfc064;stroke:#b48e19;opacity:1;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;stroke:#666666;opacity:1;fill-opacity:1"
        width="3"
        x="97"
        y="125" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle1"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;stroke:#b48e19;opacity:1"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;stroke:#666666;opacity:1"
        width="1"
        x="94"
        y="120" />
@@ -3312,19 +3312,19 @@
        d="M 97,126 C 95.2,126 94,124.8 94,123 L 93,123 C 93,125.4 94.6,127 97,127 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_window_highlight1"
-       style="fill:#e4e4e1;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#e4e4e1"
+       style="fill:#e2e2e2;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#e2e2e2"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_window_highlight1"
-       style="fill-opacity:1;opacity:0.9;stroke:#e4e4e1;fill:#e4e4e1;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#e2e2e2;fill:#e2e2e2;stroke-width:0"
        width="3"
        x="97"
        y="126" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_window_highlight1"
-       style="fill-opacity:1;stroke:#e4e4e1;opacity:0.9;fill:#e4e4e1;stroke-width:0"
+       style="fill-opacity:1;stroke:#e2e2e2;opacity:0.9;fill:#e2e2e2;stroke-width:0"
        width="1"
        x="93"
        y="120" />
@@ -3365,28 +3365,28 @@
     <rect
        height="1"
        id="active_decoration_bottom_active_contents_halo"
-       style="fill-opacity:1;opacity:0.9;stroke:#373318;fill:#7a734c;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#272727;fill:#636363;stroke-width:0"
        width="20"
        x="100"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottom_active_contents_shadow"
-       style="fill:#c5bfa0;stroke-width:0;fill-opacity:1;stroke:#c5bfa0;opacity:0.9"
+       style="fill:#b2b2b2;stroke-width:0;fill-opacity:1;stroke:#b2b2b2;opacity:0.9"
        width="20"
        x="100"
        y="121" />
     <rect
        height="4"
        id="active_decoration_bottom_active_title_middle"
-       style="stroke:#b48e19;opacity:1;fill-opacity:1;stroke-width:0;fill:#dfc064"
+       style="stroke:#666666;opacity:1;fill-opacity:1;stroke-width:0;fill:#a1a1a1"
        width="20"
        x="100"
        y="122" />
     <rect
        height="1"
        id="active_decoration_bottom_active_window_shadow"
-       style="fill:#e3e1d4;stroke-width:0;fill-opacity:1;opacity:0.92;stroke:#e3e1d4"
+       style="fill:#dbdbdb;stroke-width:0;fill-opacity:1;opacity:0.92;stroke:#dbdbdb"
        width="20"
        x="100"
        y="126" />
@@ -3427,42 +3427,42 @@
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_contents_halo1"
-       style="fill:#7a734c;stroke-width:0;fill-opacity:1;stroke:#373318;opacity:0.9"
+       style="fill:#636363;stroke-width:0;fill-opacity:1;stroke:#272727;opacity:0.9"
        width="0"
        x="120"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomright_right_active_contents_halo1"
-       style="fill-opacity:1;opacity:0.9;stroke:#373318;fill:#7a734c;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#272727;fill:#636363;stroke-width:0"
        width="1"
        x="120"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_contents_shadow1"
-       style="fill-opacity:1;opacity:0.9;stroke:#c5bfa0;fill:#c5bfa0;stroke-width:0"
+       style="fill-opacity:1;opacity:0.9;stroke:#b2b2b2;fill:#b2b2b2;stroke-width:0"
        width="1"
        x="120"
        y="121" />
     <rect
        height="2"
        id="active_decoration_bottomright_right_active_contents_shadow1"
-       style="fill:#c5bfa0;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#c5bfa0"
+       style="fill:#b2b2b2;stroke-width:0;fill-opacity:1;opacity:0.9;stroke:#b2b2b2"
        width="1"
        x="121"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle4"
-       style="fill-opacity:1;opacity:1;stroke:#b48e19;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;opacity:1;stroke:#666666;fill:#a1a1a1;stroke-width:0"
        width="2"
        x="120"
        y="122" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle4"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;stroke:#b48e19;opacity:1"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;stroke:#666666;opacity:1"
        width="1"
        x="122"
        y="120" />
@@ -3470,19 +3470,19 @@
        d="M 123,123 C 123,123 123,123 123,123 L 124,123 C 124,123.6 123.6,124 123,124 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle3"
-       style="fill-opacity:1;stroke:#b48e19;opacity:1;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;stroke:#666666;opacity:1;fill:#a1a1a1;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle3"
-       style="fill-opacity:1;stroke:#b48e19;opacity:1;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;stroke:#666666;opacity:1;fill:#a1a1a1;stroke-width:0"
        width="3"
        x="120"
        y="123" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle3"
-       style="stroke:#b48e19;opacity:1;fill-opacity:1;stroke-width:0;fill:#dfc064"
+       style="stroke:#666666;opacity:1;fill-opacity:1;stroke-width:0;fill:#a1a1a1"
        width="1"
        x="123"
        y="120" />
@@ -3490,19 +3490,19 @@
        d="M 123,124 C 123.6,124 124,123.6 124,123 L 125,123 C 125,124.2 124.2,125 123,125 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle2"
-       style="opacity:1;stroke:#b48e19;fill-opacity:1;stroke-width:0;fill:#dfc064"
+       style="opacity:1;stroke:#666666;fill-opacity:1;stroke-width:0;fill:#a1a1a1"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle2"
-       style="fill-opacity:1;stroke:#b48e19;opacity:1;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;stroke:#666666;opacity:1;fill:#a1a1a1;stroke-width:0"
        width="3"
        x="120"
        y="124" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle2"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;opacity:1;stroke:#b48e19"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;opacity:1;stroke:#666666"
        width="1"
        x="124"
        y="120" />
@@ -3510,19 +3510,19 @@
        d="M 123,125 C 124.2,125 125,124.2 125,123 L 126,123 C 126,124.8 124.8,126 123,126 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle1"
-       style="fill-opacity:1;stroke:#b48e19;opacity:1;fill:#dfc064;stroke-width:0"
+       style="fill-opacity:1;stroke:#666666;opacity:1;fill:#a1a1a1;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle1"
-       style="fill:#dfc064;stroke-width:0;fill-opacity:1;stroke:#b48e19;opacity:1"
+       style="fill:#a1a1a1;stroke-width:0;fill-opacity:1;stroke:#666666;opacity:1"
        width="3"
        x="120"
        y="125" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle1"
-       style="stroke-width:0;fill:#dfc064;opacity:1;stroke:#b48e19;fill-opacity:1"
+       style="stroke-width:0;fill:#a1a1a1;opacity:1;stroke:#666666;fill-opacity:1"
        width="1"
        x="125"
        y="120" />
@@ -3530,19 +3530,19 @@
        d="M 123,126 C 124.8,126 126,124.8 126,123 L 127,123 C 127,125.4 125.4,127 123,127 z"
        height="32"
        id="active_decoration_bottomright_corner_active_window_shadow1"
-       style="fill-opacity:1;opacity:0.92;stroke:#e3e1d4;fill:#e3e1d4;stroke-width:0"
+       style="fill-opacity:1;opacity:0.92;stroke:#dbdbdb;fill:#dbdbdb;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_window_shadow1"
-       style="fill:#e3e1d4;stroke-width:0;fill-opacity:1;opacity:0.92;stroke:#e3e1d4"
+       style="fill:#dbdbdb;stroke-width:0;fill-opacity:1;opacity:0.92;stroke:#dbdbdb"
        width="3"
        x="120"
        y="126" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_window_shadow1"
-       style="fill-opacity:1;stroke:#e3e1d4;opacity:0.92;fill:#e3e1d4;stroke-width:0"
+       style="fill-opacity:1;stroke:#dbdbdb;opacity:0.92;fill:#dbdbdb;stroke-width:0"
        width="1"
        x="126"
        y="120" />
@@ -3597,42 +3597,42 @@
     <rect
        height="1"
        id="active_decoration_topleft_top2_active_contents_halo1-1"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="0"
        x="100"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topleft_left2_active_contents_halo1-2"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="99"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topleft_top2_active_contents_highlight1-8"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="99"
        y="98" />
     <rect
        height="2"
        id="active_decoration_topleft_left2_active_contents_highlight1-9"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="98"
        y="98" />
     <rect
        height="24"
        id="active_decoration_topleft_top2_active_title_middle4-36"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="2"
        x="98"
        y="74" />
     <rect
        height="26"
        id="active_decoration_topleft_left2_active_title_middle4-80"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="97"
        y="74" />
@@ -3640,19 +3640,19 @@
        d="m 97,74 c 0,0 0,0 0,0 h -1 c 0,-0.6 0.4,-1 1,-1 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle3-2"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle3-1"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="73" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle3-0"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="96"
        y="74" />
@@ -3660,19 +3660,19 @@
        d="m 97,73 c -0.6,0 -1,0.4 -1,1 h -1 c 0,-1.2 0.8,-2 2,-2 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle2-5"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle2-1"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="72" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle2-1"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="95"
        y="74" />
@@ -3680,19 +3680,19 @@
        d="m 97,72 c -1.2,0 -2,0.8 -2,2 h -1 c 0,-1.8 1.2,-3 3,-3 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle1-0"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle1-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="71" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle1-5"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="94"
        y="74" />
@@ -3700,19 +3700,19 @@
        d="m 97,71 c -1.8,0 -3,1.2 -3,3 h -1 c 0,-2.4 1.6,-4 4,-4 z"
        height="32"
        id="active_decoration_topleft_corner_active_window_highlight1-0"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_window_highlight1-6"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="3"
        x="97"
        y="70" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_window_highlight1-4"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="1"
        x="93"
        y="74" />
@@ -3739,7 +3739,7 @@
     <rect
        height="26.928257"
        id="rect375-6"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient382-5);fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient382-5);fill-opacity:1;stroke:#666666;stroke-width:0"
        width="6.0499349"
        x="93.950066"
        y="71.071739" />
@@ -3761,28 +3761,28 @@
     <rect
        height="1"
        id="active_decoration_top_active_contents_halo-7"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="20"
        x="100"
        y="99" />
     <rect
        height="1"
        id="active_decoration_top_active_contents_highlight-2"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="20"
        x="100"
        y="98" />
     <rect
        height="27"
        id="active_decoration_top_active_title_middle-4"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#linearGradient7);fill-opacity:1;fill-rule:evenodd;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#linearGradient7);fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:0"
        width="20"
        x="100"
        y="71" />
     <rect
        height="1"
        id="active_decoration_top_active_window_highlight-06"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="20"
        x="100"
        y="70" />
@@ -3824,42 +3824,42 @@
     <rect
        height="1"
        id="active_decoration_topright_top2_active_contents_halo1-1"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="0"
        x="120"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topright_right2_active_contents_halo1-1"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="120"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topright_top2_active_contents_highlight1-0"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="120"
        y="98" />
     <rect
        height="2"
        id="active_decoration_topright_right2_active_contents_highlight1-3"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="121"
        y="98" />
     <rect
        height="24"
        id="active_decoration_topright_top2_active_title_middle4-4"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="2"
        x="120"
        y="74" />
     <rect
        height="26"
        id="active_decoration_topright_right2_active_title_middle4-0"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="122"
        y="74" />
@@ -3867,19 +3867,19 @@
        d="m 123,74 c 0,0 0,0 0,0 h 1 c 0,-0.6 -0.4,-1 -1,-1 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle3-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle3-9"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="73" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle3-19"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="123"
        y="74" />
@@ -3887,19 +3887,19 @@
        d="m 123,73 c 0.6,0 1,0.4 1,1 h 1 c 0,-1.2 -0.8,-2 -2,-2 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle2-6"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle2-9"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="72" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle2-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="124"
        y="74" />
@@ -3907,19 +3907,19 @@
        d="m 123,72 c 1.2,0 2,0.8 2,2 h 1 c 0,-1.8 -1.2,-3 -3,-3 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle1-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle1-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="71" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle1-0"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="125"
        y="74" />
@@ -3927,19 +3927,19 @@
        d="m 123,71 c 1.8,0 3,1.2 3,3 h 1 c 0,-2.4 -1.6,-4 -4,-4 z"
        height="32"
        id="active_decoration_topright_corner_active_window_highlight1-5"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_window_highlight1-6"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="3"
        x="120"
        y="70" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_window_highlight1-6"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="1"
        x="126"
        y="74" />
@@ -3966,7 +3966,7 @@
     <rect
        height="26.882627"
        id="rect377-6"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient381-9);stroke:#b48e19;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient381-9);stroke:#666666;stroke-width:0"
        width="6.0639029"
        x="120"
        y="71.117371" />
@@ -3988,28 +3988,28 @@
     <rect
        height="20"
        id="active_decoration_left_active_contents_halo-5"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="99"
        y="100" />
     <rect
        height="20"
        id="active_decoration_left_active_contents_highlight-69"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="98"
        y="100" />
     <rect
        height="20"
        id="active_decoration_left_active_title_middle-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="4"
        x="94"
        y="100" />
     <rect
        height="20"
        id="active_decoration_left_active_window_highlight-7"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="1"
        x="93"
        y="100" />
@@ -4052,28 +4052,28 @@
     <rect
        height="20"
        id="active_decoration_right_active_contents_halo-2"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="120"
        y="100" />
     <rect
        height="20"
        id="active_decoration_right_active_contents_shadow-7"
-       style="opacity:0.9;fill:#c5bfa0;fill-opacity:1;stroke:#c5bfa0;stroke-width:0"
+       style="opacity:0.9;fill:#b2b2b2;fill-opacity:1;stroke:#b2b2b2;stroke-width:0"
        width="1"
        x="121"
        y="100" />
     <rect
        height="20"
        id="active_decoration_right_active_title_middle-6"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="4"
        x="122"
        y="100" />
     <rect
        height="20"
        id="active_decoration_right_active_window_shadow-1"
-       style="opacity:0.92;fill:#e3e1d4;fill-opacity:1;stroke:#e3e1d4;stroke-width:0"
+       style="opacity:0.92;fill:#dbdbdb;fill-opacity:1;stroke:#dbdbdb;stroke-width:0"
        width="1"
        x="126"
        y="100" />
@@ -4115,42 +4115,42 @@
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_contents_halo1-1"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="0"
        x="100"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomleft_left_active_contents_halo1-4"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="99"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_contents_highlight1-91"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="99"
        y="121" />
     <rect
        height="2"
        id="active_decoration_bottomleft_left_active_contents_highlight1-0"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="98"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle4-7"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="2"
        x="98"
        y="122" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle4-5"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="97"
        y="120" />
@@ -4158,19 +4158,19 @@
        d="m 97,123 c 0,0 0,0 0,0 h -1 c 0,0.6 0.4,1 1,1 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle3-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle3-70"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="123" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle3-4"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="96"
        y="120" />
@@ -4178,19 +4178,19 @@
        d="m 97,124 c -0.6,0 -1,-0.4 -1,-1 h -1 c 0,1.2 0.8,2 2,2 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle2-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle2-04"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="124" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle2-2"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="95"
        y="120" />
@@ -4198,19 +4198,19 @@
        d="m 97,125 c -1.2,0 -2,-0.8 -2,-2 h -1 c 0,1.8 1.2,3 3,3 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle1-9"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle1-6"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="125" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle1-1"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="94"
        y="120" />
@@ -4218,19 +4218,19 @@
        d="m 97,126 c -1.8,0 -3,-1.2 -3,-3 h -1 c 0,2.4 1.6,4 4,4 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_window_highlight1-0"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_window_highlight1-4"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="3"
        x="97"
        y="126" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_window_highlight1-2"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="1"
        x="93"
        y="120" />
@@ -4272,28 +4272,28 @@
     <rect
        height="1"
        id="active_decoration_bottom_active_contents_halo-2"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="20"
        x="100"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottom_active_contents_shadow-8"
-       style="opacity:0.9;fill:#c5bfa0;fill-opacity:1;stroke:#c5bfa0;stroke-width:0"
+       style="opacity:0.9;fill:#b2b2b2;fill-opacity:1;stroke:#b2b2b2;stroke-width:0"
        width="20"
        x="100"
        y="121" />
     <rect
        height="4"
        id="active_decoration_bottom_active_title_middle-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="20"
        x="100"
        y="122" />
     <rect
        height="1"
        id="active_decoration_bottom_active_window_shadow-8"
-       style="opacity:0.92;fill:#e3e1d4;fill-opacity:1;stroke:#e3e1d4;stroke-width:0"
+       style="opacity:0.92;fill:#dbdbdb;fill-opacity:1;stroke:#dbdbdb;stroke-width:0"
        width="20"
        x="100"
        y="126" />
@@ -4335,42 +4335,42 @@
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_contents_halo1-6"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="0"
        x="120"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomright_right_active_contents_halo1-2"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="120"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_contents_shadow1-5"
-       style="opacity:0.9;fill:#c5bfa0;fill-opacity:1;stroke:#c5bfa0;stroke-width:0"
+       style="opacity:0.9;fill:#b2b2b2;fill-opacity:1;stroke:#b2b2b2;stroke-width:0"
        width="1"
        x="120"
        y="121" />
     <rect
        height="2"
        id="active_decoration_bottomright_right_active_contents_shadow1-4"
-       style="opacity:0.9;fill:#c5bfa0;fill-opacity:1;stroke:#c5bfa0;stroke-width:0"
+       style="opacity:0.9;fill:#b2b2b2;fill-opacity:1;stroke:#b2b2b2;stroke-width:0"
        width="1"
        x="121"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle4-4"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="2"
        x="120"
        y="122" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle4-9"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="122"
        y="120" />
@@ -4378,19 +4378,19 @@
        d="m 123,123 c 0,0 0,0 0,0 h 1 c 0,0.6 -0.4,1 -1,1 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle3-9"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle3-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="123" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle3-6"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="123"
        y="120" />
@@ -4398,19 +4398,19 @@
        d="m 123,124 c 0.6,0 1,-0.4 1,-1 h 1 c 0,1.2 -0.8,2 -2,2 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle2-0"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle2-5"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="124" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle2-0"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="124"
        y="120" />
@@ -4418,19 +4418,19 @@
        d="m 123,125 c 1.2,0 2,-0.8 2,-2 h 1 c 0,1.8 -1.2,3 -3,3 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle1-2"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle1-9"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="125" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle1-4"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="125"
        y="120" />
@@ -4438,19 +4438,19 @@
        d="m 123,126 c 1.8,0 3,-1.2 3,-3 h 1 c 0,2.4 -1.6,4 -4,4 z"
        height="32"
        id="active_decoration_bottomright_corner_active_window_shadow1-3"
-       style="opacity:0.92;fill:#e3e1d4;fill-opacity:1;stroke:#e3e1d4;stroke-width:0"
+       style="opacity:0.92;fill:#dbdbdb;fill-opacity:1;stroke:#dbdbdb;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_window_shadow1-5"
-       style="opacity:0.92;fill:#e3e1d4;fill-opacity:1;stroke:#e3e1d4;stroke-width:0"
+       style="opacity:0.92;fill:#dbdbdb;fill-opacity:1;stroke:#dbdbdb;stroke-width:0"
        width="3"
        x="120"
        y="126" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_window_shadow1-1"
-       style="opacity:0.92;fill:#e3e1d4;fill-opacity:1;stroke:#e3e1d4;stroke-width:0"
+       style="opacity:0.92;fill:#dbdbdb;fill-opacity:1;stroke:#dbdbdb;stroke-width:0"
        width="1"
        x="126"
        y="120" />
@@ -4484,42 +4484,42 @@
     <rect
        height="1"
        id="active_decoration_topleft_top2_active_contents_halo1-1-6"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="0"
        x="100"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topleft_left2_active_contents_halo1-2-5"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="99"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topleft_top2_active_contents_highlight1-8-7"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="99"
        y="98" />
     <rect
        height="2"
        id="active_decoration_topleft_left2_active_contents_highlight1-9-1"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="98"
        y="98" />
     <rect
        height="24"
        id="active_decoration_topleft_top2_active_title_middle4-36-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="2"
        x="98"
        y="74" />
     <rect
        height="26"
        id="active_decoration_topleft_left2_active_title_middle4-80-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="97"
        y="74" />
@@ -4527,19 +4527,19 @@
        d="m 97,74 c 0,0 0,0 0,0 h -1 c 0,-0.6 0.4,-1 1,-1 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle3-2-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle3-1-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="73" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle3-0-5"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="96"
        y="74" />
@@ -4547,19 +4547,19 @@
        d="m 97,73 c -0.6,0 -1,0.4 -1,1 h -1 c 0,-1.2 0.8,-2 2,-2 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle2-5-1"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle2-1-0"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="72" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle2-1-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="95"
        y="74" />
@@ -4567,19 +4567,19 @@
        d="m 97,72 c -1.2,0 -2,0.8 -2,2 h -1 c 0,-1.8 1.2,-3 3,-3 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle1-0-7"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle1-8-6"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="71" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle1-5-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="94"
        y="74" />
@@ -4587,19 +4587,19 @@
        d="m 97,71 c -1.8,0 -3,1.2 -3,3 h -1 c 0,-2.4 1.6,-4 4,-4 z"
        height="32"
        id="active_decoration_topleft_corner_active_window_highlight1-0-5"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_window_highlight1-6-0"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="3"
        x="97"
        y="70" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_window_highlight1-4-8"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="1"
        x="93"
        y="74" />
@@ -4626,7 +4626,7 @@
     <rect
        height="26.928257"
        id="rect375-6-1"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient382-5-8);fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient382-5-8);fill-opacity:1;stroke:#666666;stroke-width:0"
        width="6.0499349"
        x="93.950066"
        y="71.071739" />
@@ -4640,28 +4640,28 @@
     <rect
        height="1"
        id="active_decoration_top_active_contents_halo-7-3"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="20"
        x="100"
        y="99" />
     <rect
        height="1"
        id="active_decoration_top_active_contents_highlight-2-4"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="20"
        x="100"
        y="98" />
     <rect
        height="27"
        id="active_decoration_top_active_title_middle-4-1"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#linearGradient206);fill-opacity:1;fill-rule:evenodd;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#linearGradient206);fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:0"
        width="20"
        x="100"
        y="71" />
     <rect
        height="1"
        id="active_decoration_top_active_window_highlight-06-5"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="20"
        x="100"
        y="70" />
@@ -4682,42 +4682,42 @@
     <rect
        height="1"
        id="active_decoration_topright_top2_active_contents_halo1-1-9"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="0"
        x="120"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topright_right2_active_contents_halo1-1-9"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="120"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topright_top2_active_contents_highlight1-0-0"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="120"
        y="98" />
     <rect
        height="2"
        id="active_decoration_topright_right2_active_contents_highlight1-3-7"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="121"
        y="98" />
     <rect
        height="24"
        id="active_decoration_topright_top2_active_title_middle4-4-6"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="2"
        x="120"
        y="74" />
     <rect
        height="26"
        id="active_decoration_topright_right2_active_title_middle4-0-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="122"
        y="74" />
@@ -4725,19 +4725,19 @@
        d="m 123,74 c 0,0 0,0 0,0 h 1 c 0,-0.6 -0.4,-1 -1,-1 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle3-3-7"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle3-9-6"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="73" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle3-19-1"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="123"
        y="74" />
@@ -4745,19 +4745,19 @@
        d="m 123,73 c 0.6,0 1,0.4 1,1 h 1 c 0,-1.2 -0.8,-2 -2,-2 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle2-6-5"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle2-9-0"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="72" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle2-3-6"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="124"
        y="74" />
@@ -4765,19 +4765,19 @@
        d="m 123,72 c 1.2,0 2,0.8 2,2 h 1 c 0,-1.8 -1.2,-3 -3,-3 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle1-3-5"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle1-8-0"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="71" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle1-0-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="125"
        y="74" />
@@ -4785,19 +4785,19 @@
        d="m 123,71 c 1.8,0 3,1.2 3,3 h 1 c 0,-2.4 -1.6,-4 -4,-4 z"
        height="32"
        id="active_decoration_topright_corner_active_window_highlight1-5-1"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_window_highlight1-6-2"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="3"
        x="120"
        y="70" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_window_highlight1-6-2"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="1"
        x="126"
        y="74" />
@@ -4824,7 +4824,7 @@
     <rect
        height="26.882627"
        id="rect377-6-0"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient381-9-0);stroke:#b48e19;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient381-9-0);stroke:#666666;stroke-width:0"
        width="6.0639029"
        x="120"
        y="71.117371" />
@@ -4838,28 +4838,28 @@
     <rect
        height="20"
        id="active_decoration_left_active_contents_halo-5-4"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="99"
        y="100" />
     <rect
        height="20"
        id="active_decoration_left_active_contents_highlight-69-0"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="98"
        y="100" />
     <rect
        height="20"
        id="active_decoration_left_active_title_middle-8-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="4"
        x="94"
        y="100" />
     <rect
        height="20"
        id="active_decoration_left_active_window_highlight-7-2"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="1"
        x="93"
        y="100" />
@@ -4894,28 +4894,28 @@
     <rect
        height="20"
        id="active_decoration_right_active_contents_halo-2-4"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="120"
        y="100" />
     <rect
        height="20"
        id="active_decoration_right_active_contents_shadow-7-9"
-       style="opacity:0.9;fill:#c5bfa0;fill-opacity:1;stroke:#c5bfa0;stroke-width:0"
+       style="opacity:0.9;fill:#b2b2b2;fill-opacity:1;stroke:#b2b2b2;stroke-width:0"
        width="1"
        x="121"
        y="100" />
     <rect
        height="20"
        id="active_decoration_right_active_title_middle-6-2"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="4"
        x="122"
        y="100" />
     <rect
        height="20"
        id="active_decoration_right_active_window_shadow-1-7"
-       style="opacity:0.92;fill:#e3e1d4;fill-opacity:1;stroke:#e3e1d4;stroke-width:0"
+       style="opacity:0.92;fill:#dbdbdb;fill-opacity:1;stroke:#dbdbdb;stroke-width:0"
        width="1"
        x="126"
        y="100" />
@@ -4936,42 +4936,42 @@
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_contents_halo1-1-3"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="0"
        x="100"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomleft_left_active_contents_halo1-4-8"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="99"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_contents_highlight1-91-6"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="99"
        y="121" />
     <rect
        height="2"
        id="active_decoration_bottomleft_left_active_contents_highlight1-0-0"
-       style="opacity:0.9;fill:#c4c3bf;fill-opacity:1;stroke:#c4c3bf;stroke-width:0"
+       style="opacity:0.9;fill:#c1c1c1;fill-opacity:1;stroke:#c1c1c1;stroke-width:0"
        width="1"
        x="98"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle4-7-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="2"
        x="98"
        y="122" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle4-5-9"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="97"
        y="120" />
@@ -4979,19 +4979,19 @@
        d="m 97,123 c 0,0 0,0 0,0 h -1 c 0,0.6 0.4,1 1,1 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle3-8-2"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle3-70-2"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="123" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle3-4-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="96"
        y="120" />
@@ -4999,19 +4999,19 @@
        d="m 97,124 c -0.6,0 -1,-0.4 -1,-1 h -1 c 0,1.2 0.8,2 2,2 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle2-8-1"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle2-04-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="124" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle2-2-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="95"
        y="120" />
@@ -5019,19 +5019,19 @@
        d="m 97,125 c -1.2,0 -2,-0.8 -2,-2 h -1 c 0,1.8 1.2,3 3,3 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle1-9-4"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle1-6-2"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="97"
        y="125" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle1-1-2"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="94"
        y="120" />
@@ -5039,19 +5039,19 @@
        d="m 97,126 c -1.8,0 -3,-1.2 -3,-3 h -1 c 0,2.4 1.6,4 4,4 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_window_highlight1-0-4"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_window_highlight1-4-5"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="3"
        x="97"
        y="126" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_window_highlight1-2-1"
-       style="opacity:0.9;fill:#e4e4e1;fill-opacity:1;stroke:#e4e4e1;stroke-width:0"
+       style="opacity:0.9;fill:#e2e2e2;fill-opacity:1;stroke:#e2e2e2;stroke-width:0"
        width="1"
        x="93"
        y="120" />
@@ -5085,28 +5085,28 @@
     <rect
        height="1"
        id="active_decoration_bottom_active_contents_halo-2-8"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="20"
        x="100"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottom_active_contents_shadow-8-1"
-       style="opacity:0.9;fill:#c5bfa0;fill-opacity:1;stroke:#c5bfa0;stroke-width:0"
+       style="opacity:0.9;fill:#b2b2b2;fill-opacity:1;stroke:#b2b2b2;stroke-width:0"
        width="20"
        x="100"
        y="121" />
     <rect
        height="4"
        id="active_decoration_bottom_active_title_middle-3-3"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="20"
        x="100"
        y="122" />
     <rect
        height="1"
        id="active_decoration_bottom_active_window_shadow-8-3"
-       style="opacity:0.92;fill:#e3e1d4;fill-opacity:1;stroke:#e3e1d4;stroke-width:0"
+       style="opacity:0.92;fill:#dbdbdb;fill-opacity:1;stroke:#dbdbdb;stroke-width:0"
        width="20"
        x="100"
        y="126" />
@@ -5127,42 +5127,42 @@
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_contents_halo1-6-0"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="0"
        x="120"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomright_right_active_contents_halo1-2-4"
-       style="opacity:0.9;fill:#7a734c;fill-opacity:1;stroke:#373318;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#272727;stroke-width:0"
        width="1"
        x="120"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_contents_shadow1-5-8"
-       style="opacity:0.9;fill:#c5bfa0;fill-opacity:1;stroke:#c5bfa0;stroke-width:0"
+       style="opacity:0.9;fill:#b2b2b2;fill-opacity:1;stroke:#b2b2b2;stroke-width:0"
        width="1"
        x="120"
        y="121" />
     <rect
        height="2"
        id="active_decoration_bottomright_right_active_contents_shadow1-4-4"
-       style="opacity:0.9;fill:#c5bfa0;fill-opacity:1;stroke:#c5bfa0;stroke-width:0"
+       style="opacity:0.9;fill:#b2b2b2;fill-opacity:1;stroke:#b2b2b2;stroke-width:0"
        width="1"
        x="121"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle4-4-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="2"
        x="120"
        y="122" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle4-9-1"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="122"
        y="120" />
@@ -5170,19 +5170,19 @@
        d="m 123,123 c 0,0 0,0 0,0 h 1 c 0,0.6 -0.4,1 -1,1 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle3-9-6"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle3-3-8"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="123" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle3-6-5"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="123"
        y="120" />
@@ -5190,19 +5190,19 @@
        d="m 123,124 c 0.6,0 1,-0.4 1,-1 h 1 c 0,1.2 -0.8,2 -2,2 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle2-0-2"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle2-5-1"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="124" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle2-0-9"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="124"
        y="120" />
@@ -5210,19 +5210,19 @@
        d="m 123,125 c 1.2,0 2,-0.8 2,-2 h 1 c 0,1.8 -1.2,3 -3,3 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle1-2-9"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle1-9-6"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="3"
        x="120"
        y="125" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle1-4-0"
-       style="opacity:1;fill:#dfc064;fill-opacity:1;stroke:#b48e19;stroke-width:0"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:1;stroke:#666666;stroke-width:0"
        width="1"
        x="125"
        y="120" />
@@ -5230,19 +5230,19 @@
        d="m 123,126 c 1.8,0 3,-1.2 3,-3 h 1 c 0,2.4 -1.6,4 -4,4 z"
        height="32"
        id="active_decoration_bottomright_corner_active_window_shadow1-3-6"
-       style="opacity:0.92;fill:#e3e1d4;fill-opacity:1;stroke:#e3e1d4;stroke-width:0"
+       style="opacity:0.92;fill:#dbdbdb;fill-opacity:1;stroke:#dbdbdb;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_window_shadow1-5-4"
-       style="opacity:0.92;fill:#e3e1d4;fill-opacity:1;stroke:#e3e1d4;stroke-width:0"
+       style="opacity:0.92;fill:#dbdbdb;fill-opacity:1;stroke:#dbdbdb;stroke-width:0"
        width="3"
        x="120"
        y="126" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_window_shadow1-1-9"
-       style="opacity:0.92;fill:#e3e1d4;fill-opacity:1;stroke:#e3e1d4;stroke-width:0"
+       style="opacity:0.92;fill:#dbdbdb;fill-opacity:1;stroke:#dbdbdb;stroke-width:0"
        width="1"
        x="126"
        y="120" />
@@ -5297,14 +5297,14 @@
     <rect
        height="1"
        id="active_decoration_topleft_top2_active_contents_halo1-7"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="0"
        x="100"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topleft_left2_active_contents_halo1-8"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="1"
        x="99"
        y="99" />
@@ -5325,14 +5325,14 @@
     <rect
        height="24"
        id="active_decoration_topleft_top2_active_title_middle4-3"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="2"
        x="98"
        y="74" />
     <rect
        height="26"
        id="active_decoration_topleft_left2_active_title_middle4-8"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="97"
        y="74" />
@@ -5340,19 +5340,19 @@
        d="m 97,74 c 0,0 0,0 0,0 h -1 c 0,-0.6 0.4,-1 1,-1 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle3-3"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle3-7"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="97"
        y="73" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle3-9"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="96"
        y="74" />
@@ -5360,19 +5360,19 @@
        d="m 97,73 c -0.6,0 -1,0.4 -1,1 h -1 c 0,-1.2 0.8,-2 2,-2 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle2-3"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle2-7"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="97"
        y="72" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle2-8"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="95"
        y="74" />
@@ -5380,19 +5380,19 @@
        d="m 97,72 c -1.2,0 -2,0.8 -2,2 h -1 c 0,-1.8 1.2,-3 3,-3 z"
        height="32"
        id="active_decoration_topleft_corner_active_title_middle1-7"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topleft_top_active_title_middle1-4"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="97"
        y="71" />
     <rect
        height="26"
        id="active_decoration_topleft_left_active_title_middle1-1"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="94"
        y="74" />
@@ -5439,7 +5439,7 @@
     <rect
        height="26.928257"
        id="rect375-8"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient382-0);fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient382-0);fill-opacity:1;stroke:#656565;stroke-width:0"
        width="6.0499349"
        x="93.950066"
        y="71.071739" />
@@ -5461,7 +5461,7 @@
     <rect
        height="1"
        id="active_decoration_top_active_contents_halo-1"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="20"
        x="100"
        y="99" />
@@ -5475,7 +5475,7 @@
     <rect
        height="27"
        id="active_decoration_top_active_title_middle-8"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#linearGradient386-4);fill-opacity:1;fill-rule:evenodd;stroke:#927c39;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#linearGradient386-4);fill-opacity:1;fill-rule:evenodd;stroke:#656565;stroke-width:0"
        width="20"
        x="100"
        y="71" />
@@ -5524,14 +5524,14 @@
     <rect
        height="1"
        id="active_decoration_topright_top2_active_contents_halo1-4"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="0"
        x="120"
        y="99" />
     <rect
        height="1"
        id="active_decoration_topright_right2_active_contents_halo1-3"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="1"
        x="120"
        y="99" />
@@ -5552,14 +5552,14 @@
     <rect
        height="24"
        id="active_decoration_topright_top2_active_title_middle4-2"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="2"
        x="120"
        y="74" />
     <rect
        height="26"
        id="active_decoration_topright_right2_active_title_middle4-2"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="122"
        y="74" />
@@ -5567,19 +5567,19 @@
        d="m 123,74 c 0,0 0,0 0,0 h 1 c 0,-0.6 -0.4,-1 -1,-1 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle3-0"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle3-2"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="120"
        y="73" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle3-1"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="123"
        y="74" />
@@ -5587,19 +5587,19 @@
        d="m 123,73 c 0.6,0 1,0.4 1,1 h 1 c 0,-1.2 -0.8,-2 -2,-2 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle2-7"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle2-5"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="120"
        y="72" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle2-1"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="124"
        y="74" />
@@ -5607,19 +5607,19 @@
        d="m 123,72 c 1.2,0 2,0.8 2,2 h 1 c 0,-1.8 -1.2,-3 -3,-3 z"
        height="32"
        id="active_decoration_topright_corner_active_title_middle1-7"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_topright_top_active_title_middle1-4"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="120"
        y="71" />
     <rect
        height="26"
        id="active_decoration_topright_right_active_title_middle1-1"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="125"
        y="74" />
@@ -5666,7 +5666,7 @@
     <rect
        height="26.882627"
        id="rect377-4"
-       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient381-1);stroke:#927c39;stroke-width:0"
+       style="opacity:1;mix-blend-mode:lighten;fill:url(#radialGradient381-1);stroke:#656565;stroke-width:0"
        width="6.0639029"
        x="120"
        y="71.117371" />
@@ -5688,7 +5688,7 @@
     <rect
        height="20"
        id="active_decoration_left_active_contents_halo-1"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="1"
        x="99"
        y="100" />
@@ -5702,7 +5702,7 @@
     <rect
        height="20"
        id="active_decoration_left_active_title_middle-6"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="4"
        x="94"
        y="100" />
@@ -5752,7 +5752,7 @@
     <rect
        height="20"
        id="active_decoration_right_active_contents_halo-1"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="1"
        x="120"
        y="100" />
@@ -5766,7 +5766,7 @@
     <rect
        height="20"
        id="active_decoration_right_active_title_middle-2"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="4"
        x="122"
        y="100" />
@@ -5815,14 +5815,14 @@
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_contents_halo1-3"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="0"
        x="100"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomleft_left_active_contents_halo1-7"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="1"
        x="99"
        y="120" />
@@ -5843,14 +5843,14 @@
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle4-4"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="2"
        x="98"
        y="122" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle4-9"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="97"
        y="120" />
@@ -5858,19 +5858,19 @@
        d="m 97,123 c 0,0 0,0 0,0 h -1 c 0,0.6 0.4,1 1,1 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle3-1"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle3-7"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="97"
        y="123" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle3-0"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="96"
        y="120" />
@@ -5878,19 +5878,19 @@
        d="m 97,124 c -0.6,0 -1,-0.4 -1,-1 h -1 c 0,1.2 0.8,2 2,2 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle2-6"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle2-0"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="97"
        y="124" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle2-8"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="95"
        y="120" />
@@ -5898,19 +5898,19 @@
        d="m 97,125 c -1.2,0 -2,-0.8 -2,-2 h -1 c 0,1.8 1.2,3 3,3 z"
        height="32"
        id="active_decoration_bottomleft_corner_active_title_middle1-5"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomleft_bottom_active_title_middle1-3"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="97"
        y="125" />
     <rect
        height="3"
        id="active_decoration_bottomleft_left_active_title_middle1-9"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="94"
        y="120" />
@@ -5972,7 +5972,7 @@
     <rect
        height="1"
        id="active_decoration_bottom_active_contents_halo-8"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="20"
        x="100"
        y="120" />
@@ -5986,7 +5986,7 @@
     <rect
        height="4"
        id="active_decoration_bottom_active_title_middle-8"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="20"
        x="100"
        y="122" />
@@ -6035,14 +6035,14 @@
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_contents_halo1-4"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="0"
        x="120"
        y="120" />
     <rect
        height="1"
        id="active_decoration_bottomright_right_active_contents_halo1-6"
-       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#292924;stroke-width:0"
+       style="opacity:0.9;fill:#636363;fill-opacity:1;stroke:#262626;stroke-width:0"
        width="1"
        x="120"
        y="120" />
@@ -6063,14 +6063,14 @@
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle4-3"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="2"
        x="120"
        y="122" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle4-3"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="122"
        y="120" />
@@ -6078,19 +6078,19 @@
        d="m 123,123 c 0,0 0,0 0,0 h 1 c 0,0.6 -0.4,1 -1,1 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle3-4"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle3-4"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="120"
        y="123" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle3-3"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="123"
        y="120" />
@@ -6098,19 +6098,19 @@
        d="m 123,124 c 0.6,0 1,-0.4 1,-1 h 1 c 0,1.2 -0.8,2 -2,2 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle2-9"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle2-7"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="120"
        y="124" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle2-2"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="124"
        y="120" />
@@ -6118,19 +6118,19 @@
        d="m 123,125 c 1.2,0 2,-0.8 2,-2 h 1 c 0,1.8 -1.2,3 -3,3 z"
        height="32"
        id="active_decoration_bottomright_corner_active_title_middle1-5"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="32" />
     <rect
        height="1"
        id="active_decoration_bottomright_bottom_active_title_middle1-8"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="3"
        x="120"
        y="125" />
     <rect
        height="3"
        id="active_decoration_bottomright_right_active_title_middle1-9"
-       style="opacity:1;fill:#c0af81;fill-opacity:1;stroke:#927c39;stroke-width:0"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;stroke:#656565;stroke-width:0"
        width="1"
        x="125"
        y="120" />
@@ -6178,7 +6178,7 @@
   <rect
      height="20"
      id="decoration-maximized-center"
-     style="fill:#ce9f00;stroke-width:0;fill-opacity:1;opacity:1;stroke:#ce9f00"
+     style="fill:#676767;stroke-width:0;fill-opacity:1;opacity:1;stroke:#676767"
      width="20"
      x="250"
      y="100"
@@ -6186,14 +6186,14 @@
   <rect
      height="20"
      id="decoration-maximized-inactive-center"
-     style="fill-opacity:1;opacity:1;stroke:#e7e7e7;fill:#dfc064;stroke-width:0"
+     style="fill-opacity:1;opacity:1;stroke:#e7e7e7;fill:#a1a1a1;stroke-width:0"
      width="20"
      x="250"
      y="140" />
   <rect
      height="20"
      id="decoration-maximized-opaque-center"
-     style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient197);fill-opacity:1;stroke:#c6b373;stroke-width:0"
+     style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient197);fill-opacity:1;stroke:#9c9c9c;stroke-width:0"
      width="20"
      x="250"
      y="100" />
